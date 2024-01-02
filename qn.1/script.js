@@ -5,9 +5,6 @@ class Movie {
         this.studio = studio;
         this.rating = rating;
     }
-    getTitle(){
-        return this.title;
-    }
     getRating() {
         return this.rating;
     }

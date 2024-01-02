@@ -1,5 +1,5 @@
 class UberPrice {
-    constructor(distance, duration, serviceType = "standard") {
+    constructor(distance, duration, serviceType = "Standard") {
         this.distance = distance;//km
         this.duration = duration;//hr
         this.serviceType = serviceType;
